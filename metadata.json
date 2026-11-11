@@ -1,0 +1,6 @@
+{
+  "name": "SpamGuard ML - Email Spam Prediction System",
+  "description": "Interactive machine learning email spam classifier powered by Naive Bayes and Support Vector Machines with TF-IDF vectorization, XAI token attribution, and model evaluation metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
